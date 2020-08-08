@@ -12,5 +12,7 @@ Project management page for all Xeroxi requests, displays all project informatio
 
 * AOS.js (Animations)
 * Axios (HTTP Request to API)
+* Moment-timezone (Manage datetimes)
+* SweetAlert2 (Fancy notifications)
 
 Connected with SQL database hosted in api.xeroxi.com
