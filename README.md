@@ -1,14 +1,19 @@
 # Xeroxi-Management
 
-##**V1**##
+## V1
 
 Project management page for all Xeroxi requests, displays all project information, payment status and customer information.
 
-**BACKEND** # Project made in React with custom RESTful API made with Laravel.
+### BACKEND 
 
-**FRONTEND** # React.js & Tailwind.css
+* Project made in React with custom RESTful API made with Laravel.
 
-**LIBRARIES**
+### FRONTEND
+
+* React.js
+* Tailwind.css
+
+### LIBRARIES
 
 * AOS.js (Animations)
 * Axios (HTTP Request to API)
